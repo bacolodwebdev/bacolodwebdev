@@ -11,13 +11,13 @@
   </p>
   
   <p>
-    <a href="#" target="_blank">
-      <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
+    <a href="https://www.facebook.com/joselito2001/" target="_blank">
+      <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook">
     </a>
-    <a href="#" target="_blank">
+    <a href="https://bacolodwebdev.com" target="_blank">
       <img src="https://img.shields.io/badge/Portfolio-255E63?style=for-the-badge&logo=ionic&logoColor=white" alt="Portfolio">
     </a>
-    <a href="mailto:your-email@example.com" target="_blank">
+    <a href="mailto:bacolodjoselito1@gmail.com" target="_blank">
       <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email">
     </a>
   </p>
@@ -31,22 +31,22 @@
   <a href="#-from-my-blog">Blog</a>
 </div>
 
----
+<img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-template/master/src/assets/line.svg" width="100%">
 
-### 📅 My Journey
+### 🚀 My Journey
 <details>
   <summary>A timeline of my professional growth and key milestones.</summary>
   
   - **✨ 2019 - The Spark:** Began my programming journey, diving into web development and taking on my first freelance projects while studying.
   - **📜 2020 - Skill Expansion:** Earned multiple TESDA certifications in Game Programming, Java, and Creative Web Design, while building a portfolio of side-projects.
   - **💻 2021 - Complex Projects:** Tackled more complex challenges, developing desktop applications and systems using C#, C++, and C.
-  - **📚 2022 - Library Management System:** Developed a comprehensive Library Management System using PHP.
+  - **📚 2022 - Library Management System:** Developed a comprehensive Library Management System using PHP, honing my skills in database design and web application architecture.
   - **🎓 July 2023 - Graduation (Cum Laude):** Graduated with honors from Universidad de Manila with a BTVTEd in Computer Programming Technology.
-  - **💼 September 2023 - Corporate Experience:** Began my career as a Software Developer in Makati.
+  - **💼 September 2023 - Corporate Experience:** Began my career as a Software Developer in Makati, gaining valuable industry experience.
   - **🧑‍🏫 May 2024 - LPT:** Successfully passed the Licensure Examination for Professional Teachers (LPT).
-  - **📈 July 2024 - Public Service:** Transitioned to a government agency, promoted to Programmer I by December 2024.
-  - **🧠 September 2024 - Master's Degree:** Began studying for my Master in Information Technology.
-  - **🚀 February 2025 - Full-Time Freelance:** Embraced the challenge of full-time freelance programming.
+  - **📈 July 2024 - Public Service:** Transitioned to a government agency, starting as a Junior Programmer and quickly earning a promotion to Programmer I by December 2024.
+  - **🧠 September 2024 - Master's Degree:** Began studying for my Master in Information Technology to expand my knowledge and hone my skills in the IT field.
+  - **✈️ February 2025 - Full-Time Freelance:** Embraced the challenge of full-time freelance programming, dedicating myself 24/7 to delivering high-quality solutions.
 </details>
 
 ---
@@ -65,33 +65,51 @@
 ### 🛠️ Core Competencies
 *The technologies I leverage to deliver exceptional results.*
 
-<p align="center">
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python">
-  <img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white" alt="Django">
-  <img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white" alt="Flask">
-  <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" alt="PHP">
-  <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white" alt="C#">
-  <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" alt="C++">
-  <img src="https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=black" alt="C">
-  <img src="https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white" alt="Android">
-  <img src="https://img.shields.io/badge/Raspberry%20Pi-A22846?style=for-the-badge&logo=raspberrypi&logoColor=white" alt="Raspberry Pi">
-  <img src="https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white" alt="Arduino">
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5">
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3">
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript">
-  <img src="https://img.shields.io/badge/SQL-025E8C?style=for-the-badge&logo=microsoft-sql-server&logoColor=white" alt="SQL">
-  <img src="https://img.shields.io/badge/MATLAB-0076A8?style=for-the-badge&logo=mathworks&logoColor=white" alt="MATLAB">
-</p>
+<table width="100%">
+  <tr>
+    <td width="50%" valign="top">
+      <h4>Languages</h4>
+      <p>
+        <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python">
+        <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" alt="PHP">
+        <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript">
+        <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white" alt="C#">
+        <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" alt="C++">
+        <img src="https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=black" alt="C">
+      </p>
+      <h4>Backend</h4>
+      <p>
+        <img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white" alt="Django">
+        <img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white" alt="Flask">
+        <img src="https://img.shields.io/badge/SQL-025E8C?style=for-the-badge&logo=microsoft-sql-server&logoColor=white" alt="SQL">
+      </p>
+    </td>
+    <td width="50%" valign="top">
+      <h4>Frontend</h4>
+      <p>
+        <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5">
+        <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3">
+      </p>
+      <h4>Hardware & Other</h4>
+        <p>
+        <img src="https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white" alt="Android">
+        <img src="https://img.shields.io/badge/Raspberry%20Pi-A22846?style=for-the-badge&logo=raspberrypi&logoColor=white" alt="Raspberry Pi">
+        <img src="https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white" alt="Arduino">
+        <img src="https://img.shields.io/badge/MATLAB-0076A8?style=for-the-badge&logo=mathworks&logoColor=white" alt="MATLAB">
+      </p>
+    </td>
+  </tr>
+</table>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=bacolodwebdev&show_icons=true&theme=radical&hide_border=true&count_private=true" alt="Joselito's GitHub Stats">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=bacolodwebdev&layout=compact&theme=radical&hide_border=true" alt="Top Languages">
+  <img src="https://github-readme-stats.vercel.app/api?username=bacolodwebdev&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="Joselito's GitHub Stats">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=bacolodwebdev&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages">
 </div>
 
 ---
 
 ### ⭐ Featured Work
-*A selection of my recent projects. You can link these to your repositories once you create them!*
+*A selection of my recent projects.*
 
 | Project         | Description                                                          | Technologies Used      |
 | --------------- | -------------------------------------------------------------------- | ---------------------- |
@@ -99,7 +117,7 @@
 | **PyLab** | An AI-powered code completer and generator for coding.               | `Python`, `AI`         |
 | **Kapilya Near Me** | A directory to help users find nearby chapels using Google Maps API. | `Python`, `Google Maps API` |
 
-<p align="right"><a href="#">View All Projects →</a></p>
+<p align="right"><a href="https://bacolodwebdev.com/projects">View All Projects →</a></p>
 
 ---
 
@@ -112,11 +130,11 @@
 ### ✍️ From My Blog
 *Sharing insights on technology and development.*
 
-- **July 24, 2025:** ['Satisfactorily Completed' vs. 'Client Satisfaction'](#) - ... *add more blog posts here*
+- **['Satisfactorily Completed' vs. 'Client Satisfaction'](https://bacolodwebdev.com/post-2)**
 
-<p align="right"><a href="#">View All Posts →</a></p>
+<p align="right"><a href="https://bacolodwebdev.com/blog">View All Posts →</a></p>
 
----
+<img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-template/master/src/assets/line.svg" width="100%">
 
 ### 📬 Let's Build Something Great Together
 <div align="center">
@@ -125,13 +143,13 @@
 </p>
 
 <p>
-    <a href="#" target="_blank">
-      <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
+    <a href="https://www.facebook.com/joselito2001/" target="_blank">
+      <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook">
     </a>
-    <a href="#" target="_blank">
+    <a href="https://bacolodwebdev.com" target="_blank">
       <img src="https://img.shields.io/badge/Portfolio-255E63?style=for-the-badge&logo=ionic&logoColor=white" alt="Portfolio">
     </a>
-    <a href="mailto:your-email@example.com" target="_blank">
+    <a href="mailto:bacolodjoselito1@gmail.com" target="_blank">
       <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email">
     </a>
 </p>
