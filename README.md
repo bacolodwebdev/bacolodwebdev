@@ -1,151 +1,137 @@
 <div id="header" align="center">
-<img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
-<h1>
-Hi, I'm Joselito Bacolod 👋
-</h1>
-<h3>
-I'm a Full-Stack Developer from the Philippines 🇵🇭
-</h3>
-<p>
-I build innovative and practical solutions for web, mobile, and IoT. From dynamic websites to custom Raspberry Pi projects, I turn complex ideas into reality.
-</p>
-
-<!-- Socials -->
-
-<p>
-<a href="https://www.facebook.com/joselito2001/" target="_blank">
-<img src="https://www.google.com/search?q=https://img.shields.io/badge/Facebook-1877F2%3Fstyle%3Dfor-the-badge%26logo%3Dfacebook%26logoColor%3Dwhite" alt="Facebook">
-</a>
-<a href="https://bacolodwebdev.com" target="_blank">
-<img src="https://img.shields.io/badge/Portfolio-255E63?style=for-the-badge&logo=ionic&logoColor=white" alt="Portfolio">
-</a>
-<a href="mailto:bacolodjoselito1@gmail.com" target="_blank">
-<img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email">
-</a>
-</p>
+  <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
+  <h1>
+    Hi, I'm Joselito Bacolod 👋
+  </h1>
+  <h3>
+    I'm a Full-Stack Developer from the Philippines 🇵🇭
+  </h3>
+  <p>
+    I build innovative and practical solutions for web, mobile, and IoT. From dynamic websites to custom Raspberry Pi projects, I turn complex ideas into reality.
+  </p>
+  
+  <p>
+    <a href="https://www.facebook.com/joselito2001/" target="_blank">
+      <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook">
+    </a>
+    <a href="https://bacolodwebdev.com" target="_blank">
+      <img src="https://img.shields.io/badge/Portfolio-255E63?style=for-the-badge&logo=ionic&logoColor=white" alt="Portfolio">
+    </a>
+    <a href="mailto:bacolodjoselito1@gmail.com" target="_blank">
+      <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email">
+    </a>
+  </p>
 </div>
-
-<!-- Navigation -->
 
 <div align="center">
-<a href="#-my-journey">My Journey</a> •
-<a href="#-how-i-can-help-you">Services</a> •
-<a href="#-core-competencies">Skills</a> •
-<a href="#-featured-work">Projects</a> •
-<a href="#-from-my-blog">Blog</a>
+  <a href="#-my-journey">My Journey</a> •
+  <a href="#-how-i-can-help-you">Services</a> •
+  <a href="#-core-competencies">Skills</a> •
+  <a href="#-featured-work">Projects</a> •
+  <a href="#-from-my-blog">Blog</a>
 </div>
+
+<img src="https://raw.githubusercontent.com/rahul-jha98/rahul-jha98/main/assets/images/line-break.svg" width="100%">
 
 🚀 My Journey
 <details>
-<summary>A timeline of my professional growth and key milestones.</summary>
-
-✨ 2019 - The Spark: Began my programming journey, diving into web development and taking on my first freelance projects while studying.
-
-📜 2020 - Skill Expansion: Earned multiple TESDA certifications in Game Programming, Java, and Creative Web Design, while building a portfolio of side-projects.
-
-💻 2021 - Complex Projects: Tackled more complex challenges, developing desktop applications and systems using C#, C++, and C.
-
-📚 2022 - Library Management System: Developed a comprehensive Library Management System using PHP, honing my skills in database design and web application architecture.
-
-🎓 July 2023 - Graduation (Cum Laude): Graduated with honors from Universidad de Manila with a BTVTEd in Computer Programming Technology.
-
-💼 September 2023 - Corporate Experience: Began my career as a Software Developer in Makati, gaining valuable industry experience.
-
-🧑‍🏫 May 2024 - LPT: Successfully passed the Licensure Examination for Professional Teachers (LPT).
-
-📈 July 2024 - Public Service: Transitioned to a government agency, starting as a Junior Programmer and quickly earning a promotion to Programmer I by December 2024.
-
-🧠 September 2024 - Master's Degree: Began studying for my Master in Information Technology to expand my knowledge and hone my skills in the IT field.
-
-✈️ February 2025 - Full-Time Freelance: Embraced the challenge of full-time freelance programming, dedicating myself 24/7 to delivering high-quality solutions.
-
+  <summary>A timeline of my professional growth and key milestones.</summary>
+  
+  - ✨ 2019 - The Spark: Began my programming journey, diving into web development and taking on my first freelance projects while studying.
+  - 📜 2020 - Skill Expansion: Earned multiple TESDA certifications in Game Programming, Java, and Creative Web Design, while building a portfolio of side-projects.
+  - 💻 2021 - Complex Projects: Tackled more complex challenges, developing desktop applications and systems using C#, C++, and C.
+  - 📚 2022 - Library Management System: Developed a comprehensive Library Management System using PHP, honing my skills in database design and web application architecture.
+  - 🎓 July 2023 - Graduation (Cum Laude): Graduated with honors from Universidad de Manila with a BTVTEd in Computer Programming Technology.
+  - 💼 September 2023 - Corporate Experience: Began my career as a Software Developer in Makati, gaining valuable industry experience.
+  - 🧑‍🏫 May 2024 - LPT: Successfully passed the Licensure Examination for Professional Teachers (LPT).
+  - 📈 July 2024 - Public Service: Transitioned to a government agency, starting as a Junior Programmer and quickly earning a promotion to Programmer I by December 2024.
+  - 🧠 September 2024 - Master's Degree: Began studying for my Master in Information Technology to expand my knowledge and hone my skills in the IT field.
+  - ✈️ February 2025 - Full-Time Freelance: Embraced the challenge of full-time freelance programming, dedicating myself 24/7 to delivering high-quality solutions.
 </details>
 
 💡 How I Can Help You
 Providing high-value solutions to elevate your project.
 
-Service
+Service                   
 
-Description
+Description                                                                                                       
 
 🌐 Web App Development
 
-Building secure, scalable, and feature-rich web applications tailored to your business logic.
+Building secure, scalable, and feature-rich web applications tailored to your business logic.                     
 
 📱 Android App Solutions
 
-Designing and developing intuitive, high-performance native Android apps for a seamless user experience.
+Designing and developing intuitive, high-performance native Android apps for a seamless user experience.           
 
 🤖 Embedded & IoT Systems
 
-Creating custom hardware and software solutions with Raspberry Pi & Arduino for automation and smart devices.
+Creating custom hardware and software solutions with Raspberry Pi & Arduino for automation and smart devices.     
 
 🛠️ Core Competencies
 The technologies I leverage to deliver exceptional results.
 
 <table width="100%">
-<tr>
-<td width="50%" valign="top">
-<h4>Languages</h4>
-<p>
-<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python">
-<img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" alt="PHP">
-<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript">
-<img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white" alt="C#">
-<img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" alt="C++">
-<img src="https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=black" alt="C">
-</p>
-<h4>Backend</h4>
-<p>
-<img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white" alt="Django">
-<img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white" alt="Flask">
-<img src="https://img.shields.io/badge/SQL-025E8C?style=for-the-badge&logo=microsoft-sql-server&logoColor=white" alt="SQL">
-</p>
-</td>
-<td width="50%" valign="top">
-<h4>Frontend</h4>
-<p>
-<img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5">
-<img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3">
-</p>
-<h4>Hardware & Other</h4>
-<p>
-<img src="https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white" alt="Android">
-<img src="https://img.shields.io/badge/Raspberry%20Pi-A22846?style=for-the-badge&logo=raspberrypi&logoColor=white" alt="Raspberry Pi">
-<img src="https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white" alt="Arduino">
-<img src="https://img.shields.io/badge/MATLAB-0076A8?style=for-the-badge&logo=mathworks&logoColor=white" alt="MATLAB">
-</p>
-</td>
-</tr>
+  <tr>
+    <td width="50%" valign="top">
+      <h4>Languages</h4>
+      <p>
+        <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python">
+        <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" alt="PHP">
+        <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript">
+        <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white" alt="C#">
+        <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" alt="C++">
+        <img src="https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=black" alt="C">
+      </p>
+      <h4>Backend</h4>
+      <p>
+        <img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white" alt="Django">
+        <img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white" alt="Flask">
+        <img src="https://img.shields.io/badge/SQL-025E8C?style=for-the-badge&logo=microsoft-sql-server&logoColor=white" alt="SQL">
+      </p>
+    </td>
+    <td width="50%" valign="top">
+      <h4>Frontend</h4>
+      <p>
+        <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5">
+        <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3">
+      </p>
+      <h4>Hardware & Other</h4>
+        <p>
+        <img src="https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white" alt="Android">
+        <img src="https://img.shields.io/badge/Raspberry%20Pi-A22846?style=for-the-badge&logo=raspberrypi&logoColor=white" alt="Raspberry Pi">
+        <img src="https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white" alt="Arduino">
+        <img src="https://img.shields.io/badge/MATLAB-0076A8?style=for-the-badge&logo=mathworks&logoColor=white" alt="MATLAB">
+      </p>
+    </td>
+  </tr>
 </table>
 
-<!-- GitHub Stats -->
-
 <div align="center">
-<img src="https://www.google.com/search?q=https://github-readme-stats.vercel.app/api%3Fusername%3Dbacolodwebdev%26show_icons%3Dtrue%26theme%3Dtokyonight%26hide_border%3Dtrue%26count_private%3Dtrue" alt="Joselito's GitHub Stats">
-<img src="https://www.google.com/search?q=https://github-readme-stats.vercel.app/api/top-langs/%3Fusername%3Dbacolodwebdev%26layout%3Dcompact%26theme%3Dtokyonight%26hide_border%3Dtrue" alt="Top Languages">
+  <img src="https://github-readme-stats.vercel.app/api?username=bacolodwebdev&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="Joselito's GitHub Stats">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=bacolodwebdev&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages">
 </div>
 
 ⭐ Featured Work
 A selection of my recent projects.
 
-Project
+Project         
 
-Description
+Description                                                         
 
-Technologies Used
+Technologies Used     
 
 ORE System
 
-A comprehensive management system for a research office.
+A comprehensive management system for a research office.             
 
-PHP, AdminLTE
+PHP, AdminLTE     
 
 PyLab
 
-An AI-powered code completer and generator for coding.
+An AI-powered code completer and generator for coding.               
 
-Python, AI
+Python, AI         
 
 Kapilya Near Me
 
@@ -166,29 +152,27 @@ Sharing insights on technology and development.
 
 <p align="right"><a href="https://bacolodwebdev.com/blog">View All Posts →</a></p>
 
+<img src="https://raw.githubusercontent.com/rahul-jha98/rahul-jha98/main/assets/images/line-break.svg" width="100%">
+
 📬 Let's Build Something Great Together
 <div align="center">
 <p>
-Have a project in mind or just want to connect? I'm available for freelance opportunities and would love to hear from you.
+  Have a project in mind or just want to connect? I'm available for freelance opportunities and would love to hear from you.
 </p>
 
-<!-- Socials -->
-
 <p>
-<a href="https://www.facebook.com/joselito2001/" target="_blank">
-<img src="https://www.google.com/search?q=https://img.shields.io/badge/Facebook-1877F2%3Fstyle%3Dfor-the-badge%26logo%3Dfacebook%26logoColor%3Dwhite" alt="Facebook">
-</a>
-<a href="https://bacolodwebdev.com" target="_blank">
-<img src="https://img.shields.io/badge/Portfolio-255E63?style=for-the-badge&logo=ionic&logoColor=white" alt="Portfolio">
-</a>
-<a href="mailto:bacolodjoselito1@gmail.com" target="_blank">
-<img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email">
-</a>
+    <a href="https://www.facebook.com/joselito2001/" target="_blank">
+      <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook">
+    </a>
+    <a href="https://bacolodwebdev.com" target="_blank">
+      <img src="https://img.shields.io/badge/Portfolio-255E63?style=for-the-badge&logo=ionic&logoColor=white" alt="Portfolio">
+    </a>
+    <a href="mailto:bacolodjoselito1@gmail.com" target="_blank">
+      <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email">
+    </a>
 </p>
 </div>
 
-<!-- Footer -->
-
 <p align="center">
-<small>© 2025 Joselito Bacolod. All Rights Reserved.</small>
+  <small>© 2025 Joselito Bacolod. All Rights Reserved.</small>
 </p>
