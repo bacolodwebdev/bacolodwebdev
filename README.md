@@ -31,7 +31,7 @@
   <a href="#-from-my-blog">Blog</a>
 </div>
 
-<img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-template/master/src/assets/line.svg" width="100%">
+---
 
 ### 🚀 My Journey
 <details>
@@ -134,7 +134,7 @@
 
 <p align="right"><a href="https://bacolodwebdev.com/blog">View All Posts →</a></p>
 
-<img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-template/master/src/assets/line.svg" width="100%">
+---
 
 ### 📬 Let's Build Something Great Together
 <div align="center">
